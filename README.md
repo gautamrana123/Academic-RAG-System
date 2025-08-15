@@ -1,5 +1,7 @@
 Academic-RAG-System
 
+Academic Paper RAG with Citation Network system that not only retrieves relevant academic papers but also understands citation relationships, research trends, and can identify seminal works in a field.
+
 1. Prerequisites
 
 * Python 3.9+, VS Code, Git installed
@@ -61,5 +63,6 @@ Upload sample PDF papers
 Try search queries like "machine learning" or "data analysis"
 Check citation network visualization
 Explore research trends page
+
 
 
