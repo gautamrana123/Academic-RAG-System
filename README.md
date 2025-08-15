@@ -31,6 +31,8 @@ bash
         streamlit run app.py
 
 
+<img width="1920" height="1080" alt="Screenshot 2025-08-16 003052" src="https://github.com/user-attachments/assets/2d598e0e-0ac0-4030-b7d5-021a3df306e2" />
+
 6. Key Features Ready to Use
 
 📤 PDF upload and processing
@@ -59,4 +61,5 @@ Upload sample PDF papers
 Try search queries like "machine learning" or "data analysis"
 Check citation network visualization
 Explore research trends page
+
 
